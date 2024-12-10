@@ -1,6 +1,6 @@
-# About Me
-👋 Hi, I’m Görkem  
-I’m a software engineering student at 42 Berlin, passionate about building innovative and efficient solutions. This page showcases my journey, progress, and projects as part of the 42 curriculum and beyond.
+# 👋 Hi, I’m Görkem  
+
+I’m a software engineering student at 42 Berlin, passionate about software development. This page showcases my journey, progress, and projects as part of the 42 curriculum and beyond.
 
 ---
 
