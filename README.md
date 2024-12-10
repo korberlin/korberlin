@@ -2,6 +2,7 @@
 
 I’m a software engineering student at 42 Berlin, passionate about software development. This page showcases my journey, progress, and projects as part of the 42 curriculum and beyond.
 
+[![<gkoksal>'s 42 stats](https://badge.mediaplus.ma/levi/<gkoksal>)](https://github.com/oakoudad/badge42)
 ---
 
 # Skills
