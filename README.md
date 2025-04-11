@@ -43,21 +43,25 @@ I’m a software engineering student at 42 Berlin, passionate about software dev
 ---
 
 # Side Projects
+## WhatsApp AI Sales Pipeline
+**WhatsApp AI Sales Pipeline** is a Node.js application that creates an automated sales pipeline integrating WhatsApp Business API, OpenAI, and Airtable. The system handles incoming WhatsApp messages from potential clients, uses AI to generate intelligent responses, guides conversations to collect qualified lead information, and stores data in Airtable CRM.
+- **Features:**
+  - Automated WhatsApp conversations with AI-generated responses
+  - Multilingual support for customer interactions
+  - Intelligent media file handling via Cloudinary
+  - Lead information collection and CRM integration
+  - SMS notifications to sales/support teams
+  - Robust error handling and session management
+- **Technologies:** Node.js, Express, WhatsApp Business API, OpenAI API, Airtable, Cloudinary, Twilio
+- **Repository:** [Take a look at the code](https://github.com/korberlin/WhatsApp-AI-Sales-Pipeline)
 
 ## IDenty.fy
 **IDenty.fy** is a web application designed to simplify audio track decomposition and playlist management on Spotify. The app enables users to transform lengthy audio files or URLs into individual tracks and create personalized playlists. Seamless Spotify integration allows users to export playlists directly into their accounts.  
-
 - **Features:**
   - User authentication, including registration and password recovery.
   - Dashboard for uploading audio files or URLs.
   - Playlist creation and management.
   - Integration with AUDD API for track decomposition and Spotify API for playlist synchronization.
   - Account management settings, including Spotify unlinking and profile deletion.
-
 - **Technologies:** Flask, Python, SQLAlchemy, SQLite, AUDD API, Spotify API, HTML, CSS, JavaScript
-
 - **Repository:** [Take a look at the code](https://github.com/korberlin/IDenty.fy)
-
----
-
-Feel free to explore and connect with me through my projects!
