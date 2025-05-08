@@ -2,13 +2,12 @@
 
 I'm a software engineering student at 42 Berlin, passionate about software development. This page showcases my journey, progress, and projects as part of the 42 curriculum and beyond.
 
-[![gkoksal's 42 stats](https://badge.mediaplus.ma/binary/gkoksal?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ---
 
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,bash,c,cpp,css,html,discord,docker,flask,gradle,linux,py,sqlite,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=ableton,bash,c,cpp,css,html,npm,docker,node,js,ts,linux,py,postgres,ubuntu" />
   </a>
 </p>
 
