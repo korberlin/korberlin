@@ -7,7 +7,7 @@ I'm a software engineering student at 42 Berlin, passionate about software devel
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,bash,c,cpp,css,html,npm,docker,node,js,ts,linux,py,postgres,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=ableton,bash,c,cpp,css,html,npm,docker,js,ts,linux,py,postgres,ubuntu" />
   </a>
 </p>
 
