@@ -15,17 +15,6 @@ I'm a software engineering student at 42 Berlin, passionate about software devel
 
 # Side Projects
 
-## Employee Tracker API
-**Employee Tracker API** is a REST API for managing employee data built with Node.js, Express, TypeScript, and PostgreSQL. The project demonstrates core backend development skills including RESTful API design, database integration, and API documentation.
-- **Features:**
-  - Complete CRUD operations for employee records
-  - PostgreSQL database integration with Sequelize ORM
-  - TypeScript type safety and model validation
-  - Interactive API documentation with Swagger/OpenAPI
-  - MVC architecture with proper error handling
-- **Technologies:** Node.js, Express, TypeScript, PostgreSQL, Sequelize v7, Swagger/OpenAPI
-- **Repository:** [Take a look at the code](https://github.com/korberlin/employee-tracker-api)
-
 ## WhatsApp AI Sales Pipeline
 **WhatsApp AI Sales Pipeline** is a Node.js application that creates an automated sales pipeline integrating WhatsApp Business API, OpenAI, and Airtable. The system handles incoming WhatsApp messages from potential clients, uses AI to generate intelligent responses, guides conversations to collect qualified lead information, and stores data in Airtable CRM.
 - **Features:**
@@ -37,6 +26,30 @@ I'm a software engineering student at 42 Berlin, passionate about software devel
   - Robust error handling and session management
 - **Technologies:** Node.js, Express, WhatsApp Business API, OpenAI API, Airtable, Cloudinary, Twilio
 - **Repository:** [Take a look at the code](https://github.com/korberlin/WhatsApp-AI-Sales-Pipeline)
+
+## Car Fleet Operations Platform
+**Car Fleet Operations Platform** is a comprehensive backend system demonstrating solutions for complex operational challenges in car subscription services. Built with NestJS and TypeScript, it showcases enterprise-level architecture for handling multi-partner integrations, fleet management, and workflow automation.
+- **Features:**
+  - Multi-partner webhook integration with data normalization (BMW, Audi, Mercedes)
+  - Real-time fleet management dashboard APIs with advanced filtering
+  - Automated workflow orchestration for car delivery and status changes
+  - Comprehensive test coverage with Jest (unit tests, integration tests)
+  - Partner health monitoring and analytics endpoints
+  - Event-driven architecture for process automation
+- **Technologies:** NestJS, TypeScript, PostgreSQL, Prisma ORM, Docker, Jest, class-validator
+- **Repository:** [Take a look at the code](https://github.com/korberlin/car-fleet-operations)
+
+## Employee Tracker API
+**Employee Tracker API** is a REST API for managing employee data built with Node.js, Express, TypeScript, and PostgreSQL. The project demonstrates core backend development skills including RESTful API design, database integration, and API documentation.
+- **Features:**
+  - Complete CRUD operations for employee records
+  - PostgreSQL database integration with Sequelize ORM
+  - TypeScript type safety and model validation
+  - Interactive API documentation with Swagger/OpenAPI
+  - MVC architecture with proper error handling
+- **Technologies:** Node.js, Express, TypeScript, PostgreSQL, Sequelize v7, Swagger/OpenAPI
+- **Repository:** [Take a look at the code](https://github.com/korberlin/employee-tracker-api)
+
 
 ---
 
