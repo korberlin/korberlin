@@ -15,6 +15,25 @@ I'm a software engineering student at 42 Berlin, passionate about software devel
 
 # Side Projects
 
+## API Monetization Platform
+
+**API Monetization Platform** is a production-ready microservices system that transforms any API into a revenue-generating service. Built with NestJS and TypeScript, it provides enterprise-grade billing, rate limiting, and usage analytics without requiring modifications to existing infrastructure. The platform features a high-performance API Gateway with Redis caching that adds only ~10ms overhead while handling authentication, request proxying, and real-time usage tracking.
+
+- **Features:**
+  - Zero-code integration API Gateway with request proxying and rate limiting
+  - Redis-powered caching layer and rate limiter (5-minute TTL, ~80% DB load reduction)
+  - Automated usage-based billing with pro-ration calculations and monthly invoicing
+  - Real-time analytics dashboard with usage trends and error rate monitoring
+  - Microservices architecture with separate Analytics and Billing services
+  - Background job processing with BullMQ for efficient batch operations
+  - Flexible pricing tiers from FREE to ENTERPRISE with daily rate limits
+  - Comprehensive REST API with Swagger documentation
+  - Docker containerization with health checks and automated migrations
+
+- **Technologies:** NestJS, TypeScript, PostgreSQL, Prisma ORM, Redis, BullMQ, Docker, Microservices Architecture, REST API, Swagger
+
+- **Repository:** [Take a look at the code](https://github.com/korberlin/API-Monetization-Platform)
+
 ## WhatsApp AI Sales Pipeline
 **WhatsApp AI Sales Pipeline** is a Node.js application that creates an automated sales pipeline integrating WhatsApp Business API, OpenAI, and Airtable. The system handles incoming WhatsApp messages from potential clients, uses AI to generate intelligent responses, guides conversations to collect qualified lead information, and stores data in Airtable CRM.
 - **Features:**
