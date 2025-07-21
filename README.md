@@ -30,7 +30,7 @@ I'm a software engineering student at 42 Berlin, passionate about software devel
   - Comprehensive REST API with Swagger documentation
   - Docker containerization with health checks and automated migrations
 
-- **Technologies:** NestJS, TypeScript, PostgreSQL, Prisma ORM, Redis, BullMQ, Docker, Microservices Architecture, REST API, Swagger
+- **Technologies:** NestJS, TypeScript, PostgreSQL, Prisma ORM, Redis, Docker, Microservices Architecture, REST API, Swagger
 
 - **Repository:** [Take a look at the code](https://github.com/korberlin/API-Monetization-Platform)
 
