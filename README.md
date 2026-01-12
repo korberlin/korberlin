@@ -7,7 +7,7 @@ I'm a software engineer passionate about software development and maintainable c
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,aws,bash,bun,c,cpp,docker,kubernetes,nestjs,npm,docker,js,ts,linux,py,postgres,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,docker,kubernetes,nestjs,npm,docker,js,ts,linux,py,postgres,ubuntu" />
   </a>
 </p>
 
